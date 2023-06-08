@@ -321,6 +321,9 @@ textarea::placeholder {
         background-size: cover;
         background-position: center;
     }
+    .presentation-p{
+        padding-right: 15px;
+    }
     /* Services */
     .services-content {
         flex-direction: column;
